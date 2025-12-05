@@ -1,0 +1,6 @@
+{
+  "version": "v1.2.4",
+  "payloadUrl": "https://raw.githubusercontent.com/TsAGenesis/Geckohubexecuter/main/payload.zip",
+  "payloadSha256": "804B4082A26A8744FF8871E57F3AD302FD377F28943BFF9B2FBFDDACDD23797E",
+  "signature": ""
+}
